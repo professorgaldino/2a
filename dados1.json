@@ -1,0 +1,9364 @@
+{
+  "1": {
+    "Biologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "2": {
+    "Biologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "3": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "4": {
+    "Biologia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "5": {
+    "Biologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "6": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "7": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "8": {
+    "Biologia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        11,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "9": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "10": {
+    "Biologia": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "11": {
+    "Biologia": {
+      "notas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        12,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "12": {
+    "Biologia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "13": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "14": {
+    "Biologia": {
+      "notas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "15": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "16": {
+    "Biologia": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "17": {
+    "Biologia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "18": {
+    "Biologia": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "19": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "20": {
+    "Biologia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "21": {
+    "Biologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "22": {
+    "Biologia": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "23": {
+    "Biologia": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        12,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "24": {
+    "Biologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "25": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "26": {
+    "Biologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "27": {
+    "Biologia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        7,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        10,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "28": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "29": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "30": {
+    "Biologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  },
+  "31": {
+    "Biologia": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Financeira": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Educação Física": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Eletivas": {
+      "notas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        6,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Empreendedorismo": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Física": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        9,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Geografia": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        13,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "História": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        13,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Liderança": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Inglesa": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        14,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Matemática": {
+      "notas": [
+        2,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        17,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Oratória": {
+      "notas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        "-",
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Língua Portuguesa": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Orientação de Estudo – Matemática": {
+      "notas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Programação": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        8,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Projeto de Vida": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Química": {
+      "notas": [
+        3,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Redação e Leitura": {
+      "notas": [
+        5,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    },
+    "Sociologia": {
+      "notas": [
+        1,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas": [
+        4,
+        "-",
+        "-",
+        "-"
+      ],
+      "faltas_acumuladas": "-"
+    }
+  }
+}
