@@ -120,21 +120,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         6,
@@ -174,21 +159,6 @@
       ],
       "faltas": [
         2,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -304,7 +274,7 @@
   "2": {
     "Biologia": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -422,21 +392,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         7,
@@ -476,21 +431,6 @@
       ],
       "faltas": [
         1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -589,7 +529,7 @@
     },
     "Sociologia": {
       "notas": [
-        4,
+        6,
         "-",
         "-",
         "-"
@@ -724,21 +664,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -770,21 +695,6 @@
       "faltas_acumuladas": "-"
     },
     "Matemática": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
       "notas": [
         "-",
         "-",
@@ -1026,21 +936,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         4,
@@ -1080,21 +975,6 @@
       ],
       "faltas": [
         7,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -1328,21 +1208,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         6,
@@ -1382,21 +1247,6 @@
       ],
       "faltas": [
         7,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -1630,21 +1480,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -1684,21 +1519,6 @@
       ],
       "faltas": [
         5,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -1932,21 +1752,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -1986,21 +1791,6 @@
       ],
       "faltas": [
         3,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -2234,21 +2024,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         5,
@@ -2288,21 +2063,6 @@
       ],
       "faltas": [
         11,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -2536,21 +2296,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -2590,21 +2335,6 @@
       ],
       "faltas": [
         4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -2825,22 +2555,7 @@
     },
     "História": {
       "notas": [
-        4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Liderança": {
-      "notas": [
-        "-",
+        5,
         "-",
         "-",
         "-"
@@ -2892,21 +2607,6 @@
       ],
       "faltas": [
         8,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -3140,21 +2840,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         6,
@@ -3194,21 +2879,6 @@
       ],
       "faltas": [
         10,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -3442,21 +3112,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         5,
@@ -3496,21 +3151,6 @@
       ],
       "faltas": [
         10,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -3744,21 +3384,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -3798,21 +3423,6 @@
       ],
       "faltas": [
         3,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -4046,21 +3656,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         8,
@@ -4100,21 +3695,6 @@
       ],
       "faltas": [
         1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -4348,21 +3928,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -4402,21 +3967,6 @@
       ],
       "faltas": [
         1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -4650,21 +4200,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         7,
@@ -4704,21 +4239,6 @@
       ],
       "faltas": [
         6,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -4952,21 +4472,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         4,
@@ -5006,21 +4511,6 @@
       ],
       "faltas": [
         5,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -5254,21 +4744,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         5,
@@ -5302,21 +4777,6 @@
     "Matemática": {
       "notas": [
         5,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
         "-",
         "-",
         "-"
@@ -5556,21 +5016,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -5610,21 +5055,6 @@
       ],
       "faltas": [
         1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -5755,7 +5185,7 @@
     },
     "Educação Financeira": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -5858,21 +5288,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         7,
@@ -5912,21 +5327,6 @@
       ],
       "faltas": [
         4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -6160,21 +5560,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         5,
@@ -6214,21 +5599,6 @@
       ],
       "faltas": [
         6,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -6327,7 +5697,7 @@
     },
     "Sociologia": {
       "notas": [
-        4,
+        6,
         "-",
         "-",
         "-"
@@ -6462,21 +5832,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         8,
@@ -6516,21 +5871,6 @@
       ],
       "faltas": [
         1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -6764,21 +6104,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         7,
@@ -6818,21 +6143,6 @@
       ],
       "faltas": [
         9,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -6931,7 +6241,7 @@
     },
     "Sociologia": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -6948,7 +6258,7 @@
   "24": {
     "Biologia": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -7066,21 +6376,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         5,
@@ -7114,21 +6409,6 @@
     "Matemática": {
       "notas": [
         3,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
         "-",
         "-",
         "-"
@@ -7368,21 +6648,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -7422,21 +6687,6 @@
       ],
       "faltas": [
         7,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -7552,7 +6802,7 @@
   "26": {
     "Biologia": {
       "notas": [
-        4,
+        5,
         "-",
         "-",
         "-"
@@ -7670,21 +6920,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         6,
@@ -7724,21 +6959,6 @@
       ],
       "faltas": [
         3,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -7854,7 +7074,7 @@
   "27": {
     "Biologia": {
       "notas": [
-        3,
+        5,
         "-",
         "-",
         "-"
@@ -7972,21 +7192,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         7,
@@ -8026,21 +7231,6 @@
       ],
       "faltas": [
         4,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -8274,21 +7464,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -8320,21 +7495,6 @@
       "faltas_acumuladas": "-"
     },
     "Matemática": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
       "notas": [
         "-",
         "-",
@@ -8576,21 +7736,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -8630,21 +7775,6 @@
       ],
       "faltas": [
         1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -8878,21 +8008,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         "-",
@@ -8932,21 +8047,6 @@
       ],
       "faltas": [
         1,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
@@ -9062,7 +8162,7 @@
   "31": {
     "Biologia": {
       "notas": [
-        3,
+        5,
         "-",
         "-",
         "-"
@@ -9180,21 +8280,6 @@
       ],
       "faltas_acumuladas": "-"
     },
-    "Liderança": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
     "Língua Inglesa": {
       "notas": [
         3,
@@ -9234,21 +8319,6 @@
       ],
       "faltas": [
         17,
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas_acumuladas": "-"
-    },
-    "Oratória": {
-      "notas": [
-        "-",
-        "-",
-        "-",
-        "-"
-      ],
-      "faltas": [
-        "-",
         "-",
         "-",
         "-"
